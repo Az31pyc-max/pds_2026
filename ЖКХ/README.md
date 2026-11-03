@@ -1,17 +1,23 @@
 # Материалы по ЖКХ — «Госуслуги Дом»
 
-В этой папке собраны актуальные материалы для жителей дома.
+В папке собраны основные и исходные файлы по приложению «Госуслуги Дом».
 
-## Файлы
+## Готовые материалы для жителей
 
-- [Подробная интерактивная инструкция](gosuslugi-dom-instruktsiya.html) — основная страница для просмотра в браузере.
-- [Памятка для Telegram и MAX (HTML)](message-telegram-max.html) — компактное сообщение с активными ссылками, скрытыми за текстом.
-- [Памятка для Telegram и MAX (DOCX)](message-telegram-max.docx) — редактируемый документ с гиперссылками.
-- [Архив сайта](materials.zip) — HTML-страница и файл README для публикации.
+- [Подробная интерактивная инструкция (HTML)](gosuslugi-dom-instruktsiya.html) — основная версия с разделами и навигацией.
+- [Памятка для Telegram и MAX (HTML)](message-telegram-max.html) — компактный вариант, ссылки спрятаны за текстом.
+- [Загруженная памятка (HTML)](uploaded-instruktsiya.html) — исходный HTML-файл из переписки.
 
-## Просмотр в браузере
+## Документы и архив
 
-GitHub показывает HTML-файлы как исходный код. Для просмотра страницы как сайта используйте HTML Preview:
-https://htmlpreview.github.io/?https://github.com/Az31pyc-max/pds_2026/blob/main/%D0%96%D0%9A%D0%A5/gosuslugi-dom-instruktsiya.html
+- [Исходная инструкция (DOCX)](source-instruktsiya.docx) — Word-документ, загруженный в переписку.
+- [Архив файлов для публикации (ZIP)](gosuslugi-dom-pages.zip).
 
-Материалы открыты публично, чтобы ссылками можно было делиться в Telegram и MAX.
+## Просмотр HTML
+
+Чтобы открыть страницу именно как веб-страницу, а не исходный код GitHub, используйте HTML Preview:
+
+- [Открыть подробную интерактивную инструкцию](https://htmlpreview.github.io/?https://github.com/Az31pyc-max/pds_2026/blob/main/%D0%96%D0%9A%D0%A5/gosuslugi-dom-instruktsiya.html)
+- [Открыть памятку для Telegram и MAX](https://htmlpreview.github.io/?https://github.com/Az31pyc-max/pds_2026/blob/main/%D0%96%D0%9A%D0%A5/message-telegram-max.html)
+
+Все материалы находятся в публичном разделе ЖКХ, чтобы их можно было отправлять жителям через Telegram и MAX.
